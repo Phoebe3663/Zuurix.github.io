@@ -12,6 +12,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    font: 'Lucida Console';
 }
 a {
     text-decoration: none;
@@ -20,6 +21,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    font: 'Lucida Console';
 }
 h1 {
     font-size: 3em;
@@ -34,13 +36,16 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    font: 'Lucida Console';
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    font: 'Lucida Console';
 }
 
 ul.posts li {
     list-style: none;
+    font: 'Lucida Console';
 }
