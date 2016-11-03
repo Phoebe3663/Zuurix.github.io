@@ -4,17 +4,20 @@ body {
 }
 
 nav ul, footer ul {
+    font: "Times New Roman";
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 
 nav ul li, footer ul li {
+    font: "Times New Roman";
     display: inline;
     margin-right: 20px;
 }
 
 a {
+    font: "Times New Roman";
     text-decoration: none;
     color: #999;
 }
@@ -23,25 +26,30 @@ a:hover {
 }
 
 h1 {
+    font: "Times New Roman";
     font-size: 3em;
 }
 
 p {
+    font: "Times New Roman";
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
 
 footer {
+    font: "Times New Roman";
     border-top: 1px solid #d5d5d5;
     font-size: 1em;
 }
 
 ul.posts { 
+    font: "Times New Roman";
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
+    font: "Times New Roman";
     list-style: none;
 }
