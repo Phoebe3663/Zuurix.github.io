@@ -1,11 +1,11 @@
 body {
-    margin: 500px auto;
+    margin: 60px auto;
     width: 70%;
 }
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 200px;
     list-style: none;
     font-weight: bold;
 }
