@@ -1,9 +1,10 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font: 'Lucida Console'
 }
 nav ul, footer ul {
-    font: 'Palatino Linotype';
+    font: 'Lucida Console';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -14,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    font: 'Palatino Linotype';
+    font: 'Lucida Console';
     color: #999;
 }
 a:hover {
@@ -22,11 +23,11 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font: 'Palatino Linotype';
+    font: 'Lucida Consolee';
 }
 p {
     font-size: 1.5em;
-    font: 'Palatino Linotype';
+    font: 'Lucida Console';
     line-height: 1.4em;
     color: #333;
 }
