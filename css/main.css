@@ -31,7 +31,7 @@ nav li a:hover {
 footer ul li {
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
     display: inline;
-    margin-right: 20px;
+    margin-right: 0px;
 }
 
 a {
@@ -70,19 +70,6 @@ footer {
     border-top: 1px solid #9A9A9A;
     font-size: 1em;
     margin-right: 0px;
-}
-
-footer li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-footer li a:hover {
-    background-color: #800000;
-    text-decoration: none;
 }
 
 ul.posts { 
