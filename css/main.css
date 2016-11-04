@@ -18,7 +18,7 @@ nav li {
 nav li a {
     display: block;
     color: white;
-    vertical-align: middle;
+    text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
@@ -47,7 +47,7 @@ a:hover {
 h1 {
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
     font-size: 2em;
-    text-align: center;
+    vertical-align: middle;
     padding: 32px 32px 16px 16px;
     background-color: #e6e6e6;
     margin: 0px 0px 0px 0px;
