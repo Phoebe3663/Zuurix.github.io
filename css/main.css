@@ -47,6 +47,7 @@ a:hover {
 h1 {
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
     font-size: 2em;
+    padding: 32px 32px 16px 16px;
     background-color: #e6e6e6;
 }
 
