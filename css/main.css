@@ -4,20 +4,20 @@ body {
 }
 
 nav ul, footer ul {
-    font-family: "Arial", "Helvetica", sans-serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 
 nav ul li, footer ul li {
-    font-family: "Arial", "Helvetica", sans-serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     display: inline;
     margin-right: 20px;
 }
 
 a {
-    font-family: "Arial", "Helvetica", sans-serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     text-decoration: none;
     color: #999;
 }
@@ -27,30 +27,35 @@ a:hover {
 }
 
 h1 {
-    font-family: "Arial", "Helvetica", sans-serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 2em;
 }
 
+h2 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 1.6em;
+}
+
 p {
-    font-family: "Arial", "Helvetica", sans-serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
 
 footer {
-    font-family: "Arial", "Helvetica", sans-serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     border-top: 1px solid #d5d5d5;
     font-size: 1em;
 }
 
 ul.posts { 
-    font-family: "Arial", "Helvetica", sans-serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
-    font-family: "Arial", "Helvetica", sans-serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     list-style: none;
 }
