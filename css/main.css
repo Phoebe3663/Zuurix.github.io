@@ -10,11 +10,17 @@ nav ul, footer ul {
     font-weight: bold;
 }
 
-nav ul li, footer ul li {
+nav ul li {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     display: inline;
     margin-right: 20px;
     background-color: #C8C8C8
+}
+
+footer ul li {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    display: inline;
+    margin-right: 20px;
 }
 
 a {
