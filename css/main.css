@@ -18,7 +18,7 @@ nav li {
 nav li a {
     display: block;
     color: white;
-    text-align: center;
+    vertical-align: middle;
     padding: 14px 16px;
     text-decoration: none;
 }
