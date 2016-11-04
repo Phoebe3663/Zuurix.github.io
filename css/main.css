@@ -72,6 +72,19 @@ footer {
     margin-right: 0px;
 }
 
+footer li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+footer li a:hover {
+    background-color: #800000;
+    text-decoration: none;
+}
+
 ul.posts { 
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
     margin: 20px auto 20px; 
