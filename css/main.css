@@ -47,6 +47,7 @@ footer {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     border-top: 1px solid #d5d5d5;
     font-size: 1em;
+    background-color: #808080
 }
 
 ul.posts { 
