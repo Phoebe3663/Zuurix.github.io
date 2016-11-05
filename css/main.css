@@ -25,6 +25,7 @@ nav li a {
 
 nav li a:hover {
     background-color: #800000;
+    color: #d9d9d9;
     text-decoration: none;
 }
 
@@ -80,7 +81,7 @@ footer a {
 footer a:hover {
     background-color: #800000;
     display: block;
-    color: white;
+    color: #d9d9d9;
     padding: 14px 16px;
     text-decoration: none;
 }
