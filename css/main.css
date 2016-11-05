@@ -70,7 +70,7 @@ footer {
     margin-right: 0px;
 }
 
-footer li a {
+footer ul li a {
     background-color: #e6e6e6;
     display: block;
     color: white;
