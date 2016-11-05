@@ -57,6 +57,16 @@ h2 {
     margin: 0px 0px 0px 0px;
 }
 
+/*Game genre*/
+h3 {
+    font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
+    font-size: 1em;
+    vertical-align: middle;
+    padding: 8px 8px 8px 8px;
+    background-color: #b59b9b;
+    margin: 0px 0px 0px 0px;
+}
+
 p {
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
     font-size: 1.5em;
