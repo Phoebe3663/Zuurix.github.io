@@ -78,6 +78,8 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    padding: 8px 8px 8px 8px;
+    margin: 12px 12px 12px 12px;
 }
 
 footer {
