@@ -67,8 +67,10 @@ h3 {
     margin: 12px 12px 12px 12px;  
 }
 
+/*Genre box*/
 span.box {
     background-color: #b59b9b;
+    padding: 8px 8px 8px 8px;
 }
 
 p {
