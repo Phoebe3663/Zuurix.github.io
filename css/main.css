@@ -64,9 +64,11 @@ h3 {
     font-size: 1em;
     vertical-align: middle;
     padding: 8px 8px 8px 8px;
-    background-color: #b59b9b;
     margin: 12px 12px 12px 12px;  
-    width: 100px;
+}
+
+span.box {
+    background-color: #b59b9b;
 }
 
 p {
