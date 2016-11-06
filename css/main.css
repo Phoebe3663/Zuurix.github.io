@@ -73,6 +73,24 @@ span.box {
     padding: 8px 8px 8px 8px;
 }
 
+/*Status completed box*/
+span.status-completed {
+    background-color: #42f46b;
+    padding: 8px 8px 8px 8px;
+}
+
+/*Status beta box*/
+span.status-beta {
+    background-color: #f4d742;
+    padding: 8px 8px 8px 8px;
+}
+
+/*Status alpha box*/
+span.status-alpha {
+    background-color: #f45942;
+    padding: 8px 8px 8px 8px;
+}
+
 p {
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
     font-size: 1.5em;
