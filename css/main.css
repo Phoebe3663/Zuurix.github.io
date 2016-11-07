@@ -17,6 +17,7 @@ nav li {
 
 nav li a {
     display: block;
+    cursor: pointer;
     color: white;
     text-align: center;
     padding: 14px 16px;
@@ -27,6 +28,27 @@ nav li a:hover {
     background-color: #800000;
     color: #d9d9d9;
     text-decoration: none;
+}
+
+/*Button*/
+.button {
+	background-color: #333;
+	display: inline-block;
+	cursor: pointer;
+	color: white;
+	font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
+	font-size: 1em;
+	padding: 16px 31px;
+	text-decoration: none;
+}
+
+.button:hover {
+	background-color:#800000;
+}
+
+.button:active {
+	position:relative;
+	top:1px;
 }
 
 a {
@@ -104,6 +126,7 @@ footer {
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
     font-size: 1em;
     margin-right: 0px;
+    cursor: pointer;
 }
 
 footer a {
