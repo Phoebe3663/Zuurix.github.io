@@ -3,8 +3,6 @@ body {
     width: 70%;
 }
 
-<!--Navigation-->
-
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -31,37 +29,6 @@ nav li a:hover {
     color: #d9d9d9;
     text-decoration: none;
 }
-
-<!--Button-->
-
-zbutton ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
-zbutton li {
-    float: left;
-}
-
-zbutton li a {
-    display: block;
-    cursor: pointer;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-zbutton li a:hover {
-    background-color: #800000;
-    color: #d9d9d9;
-    text-decoration: none;
-}
-
-<!--Other-->
 
 a {
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
