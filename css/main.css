@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 
-<---Navigation--->
+<!--Navigation-->
 
 nav ul {
     list-style-type: none;
@@ -32,7 +32,7 @@ nav li a:hover {
     text-decoration: none;
 }
 
-<---Button--->
+<!--Button-->
 
 zbutton ul {
     list-style-type: none;
@@ -61,7 +61,7 @@ zbutton li a:hover {
     text-decoration: none;
 }
 
-<---Other--->
+<!--Other-->
 
 a {
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
