@@ -31,7 +31,7 @@ nav li a:hover {
 }
 
 
-basic-button {
+zbutton {
     background-color: #333;
     display: inline-block;
     cursor: pointer;
@@ -42,12 +42,12 @@ basic-button {
     text-decoration: none;
 }
 
-basic-button:hover {
+zbutton:hover {
     background-color:#800000;
     text-decoration: none;
 }
 
-basic-button:active {
+zbutton:active {
     position:relative;
     top:1px;
     text-decoration: none;
