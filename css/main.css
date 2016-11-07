@@ -31,7 +31,7 @@ nav li a:hover {
 }
 
 
-button {
+basic-button {
     background-color: #333;
     display: inline-block;
     cursor: pointer;
@@ -42,12 +42,12 @@ button {
     text-decoration: none;
 }
 
-button:hover {
+basic-button:hover {
     background-color:#800000;
     text-decoration: none;
 }
 
-button:active {
+basic-button:active {
     position:relative;
     top:1px;
     text-decoration: none;
