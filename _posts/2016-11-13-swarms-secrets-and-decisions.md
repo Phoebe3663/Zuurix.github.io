@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Echo 55: Swarms, secrets and decisions"
+title: "Echo #55: Swarms, secrets and decisions"
 date: 2016-11-03
 ---
 Last two weeks I was working on story mission V!
@@ -25,4 +25,4 @@ It sounds big, but these things will do a lot good to the game and won't delay t
 
 Until next time!
 
-[](http://i.imgur.com/qrx5wXl.png)
+![](http://i.imgur.com/qrx5wXl.png)
