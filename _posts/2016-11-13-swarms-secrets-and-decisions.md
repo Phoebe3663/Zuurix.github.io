@@ -24,5 +24,3 @@ If it will be possible I will also implement new modifications: "Evolves" and "R
 It sounds big, but these things will do a lot good to the game and won't delay the release of mission V much.
 
 Until next time!
-
-![](http://i.imgur.com/qrx5wXl.png)
