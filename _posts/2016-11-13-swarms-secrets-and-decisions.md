@@ -4,6 +4,8 @@ title: "Echo #55: Swarms, secrets and decisions"
 date: 2016-11-13
 ---
 
+**Echo #55: Swarms, secrets and decisions**
+
 Last two weeks I was working on story mission V!
 I have set up the structure of the mission, now all I need to do is to write last two dialogues, create new enemy and boss.
 
