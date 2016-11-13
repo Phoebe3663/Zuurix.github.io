@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Echo #55: Swarms, secrets and decisions"
-date: 2016-11-03
+date: 2016-11-13
 ---
 
 Last two weeks I was working on story mission V!
