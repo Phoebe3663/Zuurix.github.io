@@ -158,23 +158,27 @@ ul.posts li {
 }
 
 .myButton {
-	background-color: #333;
+    background-color: #333;
     color: white;
-	display:inline-block;
-	cursor:pointer;
-	text-decoration:none;
+    display:inline-block;
+    cursor:pointer;
+    text-decoration:none;
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
     font-size: 1em;
     vertical-align: middle;
     padding: 8px 8px 8px 8px;
-    margin: 0px 0px 0px 0px;  
+    margin: 0px 0px 16px 0px;  
 }
 .myButton:hover {
-	background-color:#800000;
+    cursor:pointer;
+    text-decoration:none;
+    background-color:#800000;
     color: #d9d9d9;
 }
 .myButton:active {
-	position:relative;
-	top:1px;
+    cursor:pointer;
+    text-decoration:none;
+    position:relative;
+    top:1px;
     color: #333;
 }
