@@ -5,7 +5,9 @@ title: Zuurix.com - Blog
 	<h1>Blog</h1>
 
 	<ul class="posts">
+	<h2>
 	  {% for post in site.posts %}
-	  <li><span>{{ post.date | date_to_string }}</span> <h2 href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</h2></li>
+	  <li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
+	</h2>
 	</ul>
