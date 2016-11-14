@@ -72,24 +72,28 @@ h3 {
 span.box {
     background-color: #b59b9b;
     padding: 8px 8px 8px 8px;
+    margin: 0px 0px 0px 0px;
 }
 
 /*Status completed box*/
 span.status-completed {
     background-color: #42f46b;
     padding: 8px 8px 8px 8px;
+    margin: 0px 0px 0px 0px;
 }
 
 /*Status beta box*/
 span.status-beta {
     background-color: #f4d742;
     padding: 8px 8px 8px 8px;
+    margin: 0px 0px 0px 0px;
 }
 
 /*Status alpha box*/
 span.status-alpha {
     background-color: #f45942;
     padding: 8px 8px 8px 8px;
+    margin: 0px 0px 0px 0px;
 }
 
 p {
