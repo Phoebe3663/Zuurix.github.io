@@ -148,6 +148,11 @@ ul.posts {
 }
 
 ul.posts li {
-    font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
     list-style: none;
+    font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+    padding: 8px 8px 8px 8px;
+    margin: 12px 12px 12px 12px;
 }
