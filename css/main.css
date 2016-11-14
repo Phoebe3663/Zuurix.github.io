@@ -31,8 +31,8 @@ nav li a:hover {
 }
 
 nav li a:active {
-    background-color: #ff0000;
-    color: #d9d9d9;
+    background-color: #800000;
+    color: #ff0000;
     text-decoration: none;
 }
 
