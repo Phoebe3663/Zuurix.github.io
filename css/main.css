@@ -134,6 +134,14 @@ footer a:hover {
     text-decoration: none;
 }
 
+footer a:active {
+    background-color: #800000;
+    display: block;
+    color: #ff0000;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
 ul.posts { 
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
     margin: 20px auto 20px; 
