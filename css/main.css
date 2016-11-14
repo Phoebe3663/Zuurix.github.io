@@ -143,15 +143,18 @@ footer a:active {
 }
 
 ul.posts { 
+    list-style: none;
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
-    margin: 20px auto 20px; 
+    font-size: 1.5em;
+    color: #333;
+    padding: 8px 8px 8px 8px;
+    margin: 12px 12px 12px 12px;
 }
 
 ul.posts li {
     list-style: none;
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
     font-size: 1.5em;
-    line-height: 1.4em;
     color: #333;
     padding: 8px 8px 8px 8px;
     margin: 12px 12px 12px 12px;
