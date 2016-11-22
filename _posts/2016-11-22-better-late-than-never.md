@@ -24,6 +24,11 @@ I have added beacons, that were removed during combat overhaul.
 Beacons are unique enemies, that instead of fighting you, repair other damaged enemies.
 Beacons and new enemy grouping create many new combat situations.
 
+This week I will continue working on mission V. 
+Update is getting close! 
+
+Until next time!
+
 ![](http://i.imgur.com/bBcQ7Zh.png)
 
 ![](http://i.imgur.com/oCYN9bq.png)
