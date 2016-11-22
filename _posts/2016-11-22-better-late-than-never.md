@@ -8,7 +8,7 @@ Last week I have done several things that I should have done months ago!
 
 Thing 1: Enemy grouping
 
-I have improved enemy spawning code occasionaly spawn enemies in wildly random groups!
+I have improved enemy spawning code to occasionally spawn enemies in wildly random groups!
 Two lurkers and heavy / acolyte and probe / tank, veteran and swarmling / etc.
 Everything is possible.
 
