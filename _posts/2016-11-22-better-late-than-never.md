@@ -4,30 +4,25 @@ title: "Echo #56: Better late than never"
 date: 2016-11-22
 ---
 
-Last week I have done several things that I should have done months ago!
+Okay, guys, I know the game was not updated for longer than the month, but give me one more week!
 
-Thing 1: Enemy grouping
+All this time since the last echo I was working on [classified]. Right now it’s almost done, but I need to add 8 more [classified] until it’s finished.
 
-I have improved enemy spawning code to occasionally spawn enemies in wildly random groups!
-Two lurkers and heavy / acolyte and probe / tank, veteran and swarmling / etc.
-Everything is possible.
+Like I said before, no spoilers. But it's safe to say that next update will be awesome!
 
-Thing 2: Quick part dismantling and unequipping
+Anyway, when [classified] will be finished, the polishing phase will begin.
 
-I have added two buttons to speed up part management.
-First button allows to dismantle all parts of the selected grade. For example, dismantle all generic parts in inventory.
-Second button moves all parts from building field to inventory.
+New item management buttons and new enemy grouping has few problems that I have to fix before updating the game.
 
-Thing 3: Beacons
+Besides that, with the mission V comes two changes to Sector Six missions.
 
-I have added beacons, that were removed during combat overhaul.
-Beacons are unique enemies, that instead of fighting you, repair other damaged enemies.
-Beacons and new enemy grouping create many new combat situations.
+You will no longer be able to enter the Core region, only during mission IV, future story missions, and endgame. You will also no longer be able to do resurrection missions without [classified], that can be obtained during mission V.
 
-This week I will continue working on mission V. 
-Update is getting close! 
+These changes are necessary for the story to make sense. They should not affect gameplay much.
 
-Until next time!
+I should manage to do all this new week and update game on weekend.
+
+Wish me luck!
 
 ![](http://i.imgur.com/bBcQ7Zh.png)
 
