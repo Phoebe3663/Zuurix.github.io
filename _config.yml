@@ -1,5 +1,6 @@
 name: Zuurix.com
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+description: "Home for awesome indie games created by game developer Zuurix."
 gems:
   - jekyll-seo-tag
