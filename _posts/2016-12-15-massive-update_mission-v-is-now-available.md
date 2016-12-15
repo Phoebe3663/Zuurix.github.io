@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Massive update! Mission V, new enemy, new enemy groups and new inventory management options!"
+title: "Massive update! Mission V is now available!"
 date: 2016-12-15
 ---
 
