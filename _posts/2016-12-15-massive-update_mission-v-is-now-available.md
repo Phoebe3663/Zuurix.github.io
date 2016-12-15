@@ -25,17 +25,29 @@ Beacons were removed during combat overhaul.
 Minor changes and fixes:
 
 * Fixed equipped part upgrading.
+
 * Fixed maximum inventory crash.
+
 * Fixed minor graphical glitch.
+
 * Piercing Lasers ability no longer deals damage to enemies outside of the screen.
+
 * Fixed region glitch, now region missions are generated and saved correctly.
+
 * Heavy no longer reflects seeking missiles.
+
 * The Core can now be entered only during mission IV.
+
 * Now you can only do resurrection missions if you obtain the Resurrection Key during mission V.
+
 * Starter alloy container is now indestructible.
+
 * Armoured colony seeker now has more armour.
-* Lurkers has been renamed to demolishers.
+
+* Lurkers have been renamed to demolishers.
+
 * Tutorial now explains how to detonate mines with carrier class spaceship.
+
 * Acolytes now have an additional attack.
 
 Have fun!
