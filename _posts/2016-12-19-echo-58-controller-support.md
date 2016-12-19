@@ -11,6 +11,7 @@ Going pretty well so far, although Sector Six is not a very good game for a cont
 Now it's possible to do these things with a controller:
 
 * Browse and interact with most of the game's interfaces.
+
 * Move, activate abilities from 1 to 8 and use alloy container during combat.
 
 What still needs to be made possible: 
