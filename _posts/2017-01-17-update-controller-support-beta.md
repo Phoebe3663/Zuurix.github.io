@@ -44,10 +44,11 @@ Along with controller support, I have fixed few old glitches and made important 
 * Aberrant Armour challenge now reduces the power of The Decision challenge:
 
 * Maxed The Decision increase mission length by 100% instead of 1000% when Aberrant Armour is also maxed.
+
 * Slightly improved introduction cutscene.
 
-()[http://i.imgur.com/5i4oFrE.png]
+[](http://i.imgur.com/5i4oFrE.png)
 
-()[http://i.imgur.com/57qdYXI.png]
+[](http://i.imgur.com/57qdYXI.png)
 
 Have fun!
