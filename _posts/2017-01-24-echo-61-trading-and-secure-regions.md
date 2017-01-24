@@ -24,17 +24,17 @@ Right now I have almost finished making item trading and made a city sprite for 
 
 That's how trading works:
 
-1) The player completes several missions in a region and it becomes secure.
+1. The player completes several missions in a region and it becomes secure.
 
-2) The player enters the secure region from the map - the same way region missions are started.
+2. The player enters the secure region from the map - the same way region missions are started.
 
-3) The player goes to a city in a secure region. Not all regions will have them.
+3. The player goes to a city in a secure region. Not all regions will have them.
 
-4) As the player approaches the city, the trading interface appears, which contains player's and city's inventories.
+4. As the player approaches the city, the trading interface appears, which contains player's and city's inventories.
 
-5) Dragging and dropping the part from the player's inventory to city's will sell that part for a certain amount of currency.
+5. Dragging and dropping the part from the player's inventory to city's will sell that part for a certain amount of currency.
 
-6) Dragging and dropping the part from the city's inventory to player's inventory, will buy that part if the player has enough currency.
+6. Dragging and dropping the part from the city's inventory to player's inventory, will buy that part if the player has enough currency.
 
 Should be pleasantly simple!
 
