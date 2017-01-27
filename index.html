@@ -3,15 +3,16 @@ layout: default
 title: Zuurix.com - Home
 ---
 <div class="blurb">
-	<h1>Home</h1>
-	<p>Welcome to home for awesome indie games created by Zuurix!</p>
-</div><!-- /.blurb -->
-
-<h1>Blog</h1>
+	
+	<h1>Welcome to home for awesome indie games created by Zuurix!</h1>
 
 <ul class="posts">
-  	  {% for post in site.posts %}
-          <span>{{ post.date | date_to_long_string }}</span>
-	  <li> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  	  {% endfor %}
-  	</ul>
+	
+	{% for post in site.posts %}
+	<span>{{ post.date | date_to_long_string }}</span>
+	<li> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	{% endfor %}
+	
+</ul>
+	
+</div><!-- /.blurb -->
