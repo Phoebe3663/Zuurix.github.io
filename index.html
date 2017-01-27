@@ -6,3 +6,10 @@ title: Zuurix.com - Home
 	<h1>Home</h1>
 	<p>Welcome to home for awesome indie games created by Zuurix!</p>
 </div><!-- /.blurb -->
+
+<ul class="posts">
+  	  {% for post in site.posts %}
+          <span>{{ post.date | date_to_long_string }}</span>
+	  <li> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  	  {% endfor %}
+  	</ul>
