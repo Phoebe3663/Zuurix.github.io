@@ -164,6 +164,22 @@ comments a {
     text-decoration: none;
 }
 
+comments a:hover {
+    background-color: #333;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+comments a:active {
+    background-color: #333;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
 /*Unordered list*/
 
 ul.posts { 
@@ -215,7 +231,7 @@ ul.posts li {
 }
 
 #disqus_thread {
-    margin-top: 0px;
+    margin-top: 8px;
     margin-bottom: 8px;
     margin-right: 24px;
     margin-left: 24px;
