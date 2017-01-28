@@ -147,6 +147,25 @@ footer a:active {
     text-decoration: none;
 }
 
+/*Comments divider*/
+
+comments {
+    font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
+    font-size: 1em;
+    margin-right: 0px;
+    cursor: pointer;
+}
+
+comments a {
+    background-color: #333;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/*Unordered list*/
+
 ul.posts { 
     list-style: none;
     font-size: 1.3em;
@@ -162,6 +181,8 @@ ul.posts li {
     padding: 8px 8px 8px 8px;
     margin: 12px 12px 12px 12px;
 }
+
+/*Button*/
 
 .myButton {
     background-color: #333;
