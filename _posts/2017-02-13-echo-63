@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Echo #63: Secure regions and alloy container rework"
+date: 2017-02-13
+---
+
+I got some exciting news! Trading has been added, it is fully functional and impactful!
+
+As I mentioned in previous echoes, my design philosophy is simple - every game element must have its place. Since the day one of Sector Six development I am working to ensure that.
+
+Trading and upcoming changes to alloy containers should make every item feel rewarding.
+
+Before trading items that were not good enough to add to spaceship were useless.
+Now there's no such thing as useless items because useless items can be exchanged for useful ones!
+
+This week I have added cities to 19 regions of Sector Six and cities buy and sell items.
+
+Right now there are 7 types of cities:
+
+* Cities that sell generic weapons.
+
+* Cities that sell random weapons and parts.
+
+* Cities that sell high-grade weapons and parts.
+
+* Cities that sell alloy containers.
+
+* Cities that sell extant parts.
+
+* Cities that sell amplifiers.
+
+* Cities that sell random grade weapons, parts and amplifiers.
+
+Each region has one city, so some regions will be more important to secure than others and I hope that will allow players to make interesting decisions.
+
+Next week I will be decorating secure regions and making important changes to alloy containers.
+
+The main problem with the alloy containers is that they don't repair enough armour in higher levels. 
+Right now alloy containers repair as much armour as they have charges. For example, alloy container with 10000 changes, will repair 10000 armor.
+
+I am planning to change this to 1 charge repairing 1% of maximum armour.
+This way alloy containers will stay useful at any level.
+
+I am also going to change how alloy and dismantling works.
+
+The refill cost of alloy containers will be equal to alloy missing and dismantling containers will give as much alloy as the dismantled container contained.
+For example, if alloy container can hold 100 alloy and it contains 30 alloy, it will cost 70 alloy to fill it.
+Dismantling a container with 30 alloy will give 30 alloy.
+
+There are other neat changes planned for container rework but I'm keeping that for the next echo!
+
+Until then!
+
+![](http://i.imgur.com/bQjnoqz.png)
