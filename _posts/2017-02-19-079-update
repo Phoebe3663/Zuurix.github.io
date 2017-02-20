@@ -1,0 +1,112 @@
+---
+layout: post
+title: "Update! Secure regions, trading, and alloy container rework!"
+date: 2017-02-19
+---
+
+Secure regions can now be entered!
+Complete the missions to make regions secure, then enter them and get in the cities to buy and sell items!
+
+There are:
+
+* Cities that sell generic weapons.
+
+* Cities that sell random parts.
+
+* Cities that sell high-grade parts.
+
+* Cities that sell alloy containers.
+
+* Cities that sell extant parts.
+
+* Cities that sell amplifiers.
+
+* Cities that sell random grade parts and amplifiers.
+
+Almost every region has a city.
+You will have to secure multiple regions to get access to all types of cities.
+
+Another big change of this update is the new alloy containers!
+
+* Changed the way alloy containers repair armour, now each container charge repairs 1% armour.
+
+* Container refill cost is now based on alloy in the container.
+
+* Rebalanced amount of alloy received when dismantling items.
+
+* New container property: Filled.
+
+* New container property: Gains 65 alloy every 50 kills.
+
+* New container property: Generates 1 ether on kill.
+
+* New container property: Generates armour on kill.
+
+* New container property: Gains 10 alloy every 15 kills.
+
+* New container property: Eternal.
+
+* New container property: Ancient.
+
+* New container property: Sacrificial.
+
+* New container flaw: Corrupted.
+
+* New container flaw: Cannot be refilled.
+
+* New container flaw: Transient.
+
+* New container flaw: Unstable.
+
+* Removed property: Gains charges on kill.
+
+* Removed property: Reduced refill cost.
+
+* Removed flaw: Increased refill cost.
+
+* Added 3 new container skins.
+
+* Now it's possible to swap alloy containers.
+
+Other changes:
+
+* Upgraded parts now have a higher value.
+
+* Added 5 achievements for triggering new container abilities.
+
+* Improved amplifier sprites.
+
+* Amplifiers now amplify part properties based on amplified part level, not on amplifier level.
+
+* You can no longer apply Almadi cathodes and anodes to parts attached to your spaceship.
+
+* Applying cathodes and anodes no longer erase their names.
+
+* Alpha Pulsar region renamed to Bloom.
+
+* Beta Pulsar region renamed to Pulsar Vector.
+
+* Added HUD hiding.
+
+* Improved item tooltip placement.
+
+* Recolored few regions.
+
+* Shielding abilities now share cooldowns.
+
+* Fixed apparition and seeking projectile glitch.
+
+* Dock part now looks better.
+
+* Story mission V will now take less time to complete.
+
+* Now it's possible to dismantle (and sell items) by pressing X button on the controller.
+
+Because this is a big update, keep an eye on glitches or balance flaws!
+Have fun!
+
+![](https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/0.7.9%20update/Bloom%202017.02.19.png)
+
+![](https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/0.7.9%20update/Warped%20Raid%20Bin%202017.02.19.png)
+
+![](https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/0.7.9%20update/Negati's%20City%202017.02.17.png)
