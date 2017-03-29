@@ -4,10 +4,6 @@ title: "The Cursed Legion is now available!"
 date: 2017-03-27
 ---
 
-![](http://i.imgur.com/T6IZFIl.png)
-
-*The Eclipse will soon darken the Human Worlds...*
-
 'Ello all, I am game developer Zuurix and I present you my 5th game - **The Cursed Legion**. It is a free single-player collectible card game.
 
 How is the Cursed Legion different from other CCG's?
