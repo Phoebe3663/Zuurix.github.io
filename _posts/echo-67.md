@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Echo #67: Gauntlet and other things"
+date: 2017-04-13
+---
+
+'Ello all!
+
+For few days I had no access to my PC, so there's not a lot of news.
+
+Last week I was working on the graphical update.
+
+I've been trying to improve Sector Six backgrounds again.
+
+The good news is that the background and clouds are moving in interfaces - like in old Sector Six versions.
+
+The bad news is that right now I'm struggling with region entering and leaving. For some reason, backgrounds jump forward when entering regions.
+
+It seems that I will have to spend more time fixing that than I would like to.
+
+Anyway, this week I will work on new options for combat and new side missions.
+
+I am going to add an option to make the game really easy. It will reduce enemy armour and damage by 50%.
+With easy mode enabled, you will also gain more XP from enemy kills.
+
+You will also be able to entirely turn off XP gaining.
+
+Recently I have received some complaints about a lack of mission variety, so I have decided to throw in some unique side missions!
+
+There will three of them: Gauntlet, heroic gauntlet and speed run.
+
+**Gauntlet:**
+
+You will have to destroy a certain amount of enemies.
+During this mission, alloy containers, armour on kill and repairing abilities will not work!
+
+**Heroic gauntlet:**
+
+Just like the regular gauntlet, except that it will last as long as you can survive and every kill will award glory.
+The more glory you have, the greater is the reward!
+Big enemies will give more glory.
+During heroic gauntlet, you will also encounter dark pillars.
+Dark pillars will allow you to summon big enemies for additional glory.
+
+**Speed run:**
+
+During speed run, you will have to destroy one of every enemy.
+One swarmling, one mosaic, one veteran, etc.
+The faster you will destroy enemies, the better reward you will get.
+
+That's all I have for this echo, time to do some heavy coding =]
+
+Until next time!
