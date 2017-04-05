@@ -5,6 +5,9 @@
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 		{% seo %}
+		{% if site.google_analytics and jekyll.environment == 'production' %}
+		{% include analytics.html %}
+		{% endif %}
 	</head>
 	<body>
 		<a href="/"><img id=logo src="https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/miscellaneous/Zuurix.com%20logo.png" alt="Zuurix.com"></a>
