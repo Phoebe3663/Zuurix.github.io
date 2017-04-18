@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito');
 
 body {
+    font-family: 'Nunito', sans-serif;
     margin: 60px auto;
     width: 70%;
 }
@@ -201,6 +202,7 @@ comments a:active {
 /*Unordered list*/
 
 ul.posts { 
+    font-family: 'Nunito', sans-serif;
     list-style: none;
     font-size: 1.3em;
     color: #333;
