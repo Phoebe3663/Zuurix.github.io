@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cabin');
+@import url('https://fonts.googleapis.com/css?family=Nunito');
 
 body {
     margin: 60px auto;
@@ -39,13 +39,13 @@ nav li a:active {
 }
 
 a {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Nunito', sans-serif;
     text-decoration: none;
     color: #800000;
 }
 
 a ul li {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 1.3em;
     color: #800000;
     padding: 8px 8px 8px 8px;
@@ -57,7 +57,7 @@ a:hover {
 }
 
 h1 {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 2em;
     vertical-align: middle;
     padding: 32px 16px 32px 16px;
@@ -68,7 +68,7 @@ h1 {
 /*Game name*/
 
 h2 {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 1.6em;
     vertical-align: middle;
     padding: 16px 16px 16px 16px;
@@ -79,7 +79,7 @@ h2 {
 /*Game genre*/
 
 h3 {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 1em;
     vertical-align: middle;
     padding: 8px 8px 8px 8px;
@@ -89,7 +89,7 @@ h3 {
 /*Plain text*/
 
 plain {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 1em;
     padding: 8px 8px 8px 8px;
     margin: 8px 8px 8px 8px;
@@ -128,7 +128,7 @@ span.status-alpha {
 }
 
 p {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 1.3em;
     color: #333;
     padding: 8px 8px 8px 8px;
@@ -136,7 +136,7 @@ p {
 }
 
 footer {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 1em;
     margin-right: 0px;
     cursor: pointer;
@@ -169,7 +169,7 @@ footer a:active {
 /*Comments divider*/
 
 comments {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 1em;
     margin-right: 0px;
 }
@@ -224,7 +224,7 @@ ul.posts li {
     display:inline-block;
     cursor:pointer;
     text-decoration:none;
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 1em;
     vertical-align: middle;
     padding: 8px 8px 8px 8px;
