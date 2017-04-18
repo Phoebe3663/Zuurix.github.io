@@ -209,6 +209,7 @@ ul.posts {
 }
 
 ul.posts li {
+    font-family: 'Nunito', sans-serif;
     list-style: none;
     font-size: 1.3em;
     color: #333;
