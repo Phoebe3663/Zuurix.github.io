@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Cursed Legion development will resume in 2018"
-date: 2017-06-14
+date: 2017-06-17
 ---
 
 When I started working on the Cursed Legion, it was just an experiment, another one of my side projects.
