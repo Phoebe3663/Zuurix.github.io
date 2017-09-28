@@ -265,9 +265,13 @@ width:842px;
 height:248px
 }
 
-/*Content box*/
+/*Space box*/
 
-#content {
-    margin-top: 32px;
-    margin-bottom: 32px;
+space a {
+    background-color: #333;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    opacity: 0;
 }
