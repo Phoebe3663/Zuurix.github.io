@@ -283,3 +283,15 @@ space a {
     text-decoration: none;
     opacity: 0;
 }
+
+/*Space box*/
+
+mini-space a {
+    background-color: #333;
+    display: block;
+    color: white;
+    padding: 7px 16px;
+    text-decoration: none;
+    opacity: 0;
+}
+
