@@ -17,7 +17,7 @@ title: Zuurix.com - Home
 	
 	{% for post in site.posts %}
 	<li> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	<span>{{ post.date | date_to_long_string }}</span>
+	<a>{{ post.date | date_to_long_string }}</a>
 	{% endfor %}
 	
 </ul>
