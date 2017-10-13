@@ -6,7 +6,7 @@ title: Zuurix.com - Home
 	
 	<h1>Home</h1>
 	
-	<p>Welcome to home for awesome indie games created by Zuurix!</p>
+	<p>Welcome to home for awesome indie games created by Zuurix! 0</p>
 	
 	<comments>
 	<a>Blog</a>
@@ -14,7 +14,7 @@ title: Zuurix.com - Home
 
 <ul class="posts">
 	
-	{% for post in site.posts %}
+	{% for post in site.posts - 1 %}
 	<span>{{ post.date | date_to_long_string }}</span>
 	<li> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	{% endfor %}
