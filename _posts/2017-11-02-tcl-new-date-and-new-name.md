@@ -10,7 +10,7 @@ Well, sort of.
 Before I get into details - the Cursed Legion game is going to have a different name.
 From now on I am going to refer to it as Legion of Eternity.
 
-Anyway, here's some bad news for those few who were waiting for my CCG - it's not going to be released for few more years.
+Anyway, bad news for those few who were waiting for my CCG - it's not going to be released for few more years.
 
 There are two main reasons why:
 
