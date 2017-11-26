@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Sector Six] Echo #55: Swarms, secrets and decisions"
+title: "Echo #55: Swarms, secrets and decisions"
 date: 2016-11-13
 ---
 
