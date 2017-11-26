@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Cursed Legion development will resume in 2018"
+title: "The Cursed Legion: Development will resume in 2018"
 date: 2017-06-17
 ---
 
