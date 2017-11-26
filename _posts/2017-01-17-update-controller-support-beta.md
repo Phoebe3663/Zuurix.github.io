@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Update! Controller support beta and miscellaneous fixes!"
+title: "Sector Six: Update! Controller support beta and miscellaneous fixes!"
 date: 2017-01-17
 ---
 
