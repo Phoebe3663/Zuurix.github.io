@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Cursed Legion is now available!"
+title: "The Cursed Legion: Now available!"
 date: 2017-03-27
 ---
 
