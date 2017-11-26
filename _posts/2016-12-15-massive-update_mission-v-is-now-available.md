@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Massive update! Mission V is now available!"
+title: "Sector Six: Massive update! Mission V is now available!"
 date: 2016-12-15
 ---
 
