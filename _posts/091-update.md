@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Update! New story missions"
+date: 2017-12-19
+---
+
+This update adds two new story missions!
+
+Fight new minions and bosses, meet a new character, endure despair and end the first chapter of the story!
+
+From here the story will get even darker.
+
+Other changes:
+
+Fixed: It was possible to reflect apex's red lasers.
+Fixed: Dozan Vel area glitch.
+Fixed: "You can use more weapons" message used to appear on level up screen even after maxing out weapon limit.
+Fixed: City trade link was above item tooltips.
+Siege missions now take less time to complete.
+Replaced "Cannot be refilled" alloy container flaw with "Loses 20 alloy after every mission".
+Added backgrounds for Silaar, Charred Link, Nebula, Rift and Broken Infinity.
+Improved backgrounds.
+Removed fog.
+
+![](https://github.com/Zuurix/Zuurix.github.io/blob/master/images/091-update/Keeper%202017.12.19.png?raw=true)
+
+Have fun!
+
+PS.: [Claim mythical part >>](http://zuurix.com/community/)
