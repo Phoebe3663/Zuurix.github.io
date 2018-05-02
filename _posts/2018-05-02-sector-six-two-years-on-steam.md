@@ -14,4 +14,4 @@ I would do something bigger for this special day, but I'm really busy preparing 
 
 Luckily there will be many more anniversaries and many opportunities to do something cooler =]
 
-Happy birthday, Sector Six! 
+Happy birthday, Sector Six!
