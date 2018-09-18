@@ -6,6 +6,10 @@ body {
     width: 70%;
 }
 
+ul {
+    list-style-image: url('https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/miscellaneous/list_arrow.png');
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
