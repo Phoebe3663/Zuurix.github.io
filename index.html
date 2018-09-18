@@ -13,18 +13,10 @@ title: Zuurix.com - Home
 <a>Blog</a>
 </comments>
 	
-<!--{% for post in site.posts %}
-<p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><i><small> – {{ post.date | date_to_long_string }}</i></small></p>
-{% endfor %}-->
-
 {% for post in site.posts offset:0 limit:20 %}
 <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><i><small> – {{ post.date | date_to_long_string }}</i></small></p>
 {% endfor %}
-	
-<micro-space>
-<a> </a>
-</micro-space>
-	
+
 <comments>
 <a>Older posts</a>
 </comments>
