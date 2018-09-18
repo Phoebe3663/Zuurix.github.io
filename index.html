@@ -16,7 +16,8 @@ title: Zuurix.com - Home
 <!--<ul class="posts">*/-->
 	
 	{% for post in site.posts %}
-	<p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><p2><i>{{ post.date | date_to_long_string }}</i></p2></p>
+	<p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
+	<p2>{{ post.date | date_to_long_string }}</p2>
 	{% endfor %}
 	
 <!--/*</ul>*/-->
