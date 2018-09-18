@@ -8,7 +8,6 @@ body {
 
 ul {
     list-style-type: none;
-    list-style-image: url('https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/miscellaneous/list_arrow.png');
 }
 
 nav ul {
@@ -57,7 +56,6 @@ a ul li {
     color: #800000;
     padding: 8px 8px 8px 8px;
     margin: 12px 12px 12px 12px;
-    list-style-image: url('https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/miscellaneous/list_arrow.png');
 }
 
 a:hover {
