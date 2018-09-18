@@ -161,22 +161,6 @@ footer a {
     text-decoration: none;
 }
 
-footer a:hover {
-    background-color: #800000;
-    display: block;
-    color: #d9d9d9;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-footer a:active {
-    background-color: #800000;
-    display: block;
-    color: #333;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
 /*Comments divider*/
 
 comments {
