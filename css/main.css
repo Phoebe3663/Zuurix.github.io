@@ -11,8 +11,7 @@ ul {
 }
 
 nav ul {
-    list-style-type: disc;
-    list-style_image: none;
+    list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -44,13 +43,16 @@ nav li a:active {
     text-decoration: none;
 }
 
-a {
-    font-family: 'Nunito', sans-serif;
-    text-decoration: none;
-    color: #800000;
+/* Link unordered list */
+
+link ul
+{
+list-style-image: url('https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/miscellaneous/list_arrow.png');
 }
 
-a ul li {
+/* Link text */
+
+a {
     font-family: 'Nunito', sans-serif;
     font-size: 1.3em;
     color: #800000;
