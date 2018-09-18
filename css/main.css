@@ -41,13 +41,6 @@ nav li a:active {
     text-decoration: none;
 }
 
-/* Link unordered list */
-
-link ul {
-    list-style-type: none;
-    list-style-image: url('https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/miscellaneous/list_arrow.png');
-}
-
 /* Text */
 
 a {
