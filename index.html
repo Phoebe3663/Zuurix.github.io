@@ -25,18 +25,18 @@ title: Zuurix.com - Home
 
 {% if forloop.first %}
 <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
-<ul>
+
 {% endif %}
 
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><i><small> – {{ post.date | date_to_long_string }}</i></small></p>
 
 {% if forloop.last %}
-</ul>
+
 {% else %}
 {% if this_year != next_year %}
-</ul>
+
 <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
-<ul>
+
 {% endif %}
 {% endif %}
 {% endfor %}
