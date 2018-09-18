@@ -61,8 +61,8 @@ h1 {
     font-family: 'Nunito', sans-serif;
     font-size: 2em;
     vertical-align: middle;
-    padding: 32px 16px 32px 48px;
-    background-color: #ff9999;
+    padding: 32px 16px 32px 32px;
+    background-color: #808080;
     margin: 0px 0px 0px 0px;
 }
 
@@ -294,4 +294,3 @@ mini-space a {
     text-decoration: none;
     opacity: 0;
 }
-
