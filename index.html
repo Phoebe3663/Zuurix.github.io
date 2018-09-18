@@ -5,20 +5,18 @@ title: Zuurix.com - Home
 
 <div class="blurb">
 	
-	<h1>Home</h1>
+<h1>Home</h1>
 	
-	<p>Welcome to the home for awesome indie games created by Zuurix!</p>
+<p>Welcome to the home for awesome indie games created by Zuurix!</p>
 	
-	<comments>
-	<a>Blog</a>
-	</comments>
-
-<!--<ul class="posts">*/-->
+<comments>
+<a>Blog</a>
+</comments>
 	
-	{% for post in site.posts %}
-	<p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
-	<p2>{{ post.date | date_to_long_string }}</p2>
-	{% endfor %}
+{% for post in site.posts %}
+<p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
+<p2>{{ post.date | date_to_long_string }}</p2>
+<p2>*</p2>
+{% endfor %}
 	
-<!--/*</ul>*/-->
 </div>
