@@ -6,6 +6,9 @@ body {
     width: 70%;
 }
 
+ul {
+list-style-type: none;
+}
 
 nav ul {
     list-style-type: none;
