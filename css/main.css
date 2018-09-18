@@ -7,11 +7,13 @@ body {
 }
 
 ul {
+    list-style-type: none;
     list-style-image: url('https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/miscellaneous/list_arrow.png');
 }
 
 nav ul {
     list-style-type: none;
+    list-style_image: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
