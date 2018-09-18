@@ -17,7 +17,7 @@ title: Zuurix.com - Home
 <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><i><small> – {{ post.date | date_to_long_string }}</i></small></p>
 {% endfor %}-->
 
-{% for post in site.posts offset:0 limit:50 %}
+{% for post in site.posts offset:0 limit:20 %}
 <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><i><small> – {{ post.date | date_to_long_string }}</i></small></p>
 {% endfor %}
 	
