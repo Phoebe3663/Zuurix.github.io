@@ -138,9 +138,9 @@ p {
     margin: 12px 12px 12px 12px;
 }
 
-p-special {
+p-date {
     font-family: 'Nunito', sans-serif;
-    font-size: 0.65em;
+    font-size: 1em;
     color: #333;
     padding: 8px 8px 8px 8px;
     margin: 12px 12px 12px 12px;
