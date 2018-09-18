@@ -14,7 +14,7 @@ title: Zuurix.com - Home
 </comments>
 	
 {% for post in site.posts %}
-<p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> – <i>{{ post.date | date_to_long_string }}</i></p>
+<p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <i> – {{ post.date | date_to_long_string }}</i></p>
 {% endfor %}
 	
 <micro-space>
