@@ -17,6 +17,35 @@ title: Zuurix.com - Home
 <p><a href="{{ post.url }}" title="{{ post.title }}"> {{ post.title }}</a><i><p-date>{{ post.date | date_long_to_string }}<p-date></i></p>
 {% endfor %}
 	
+<style>
+.grid-container {
+  display: grid;
+  grid: 150px / auto auto auto;
+  grid-gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.grid-container>div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding:20px 0;
+  font-size: 30px;
+}
+</style>
+</head>
+<body>
+
+<h1>The grid Property</h1>
+
+<p>The grid is a shorthand property for all grid container properties.</p>
+
+<p>This grid layout has three columns, and the first row is 150px high:</p>
+
+<div class="grid-container">
+  <div class="item1"><a href="{{ post.url }}" title="{{ post.title }}"> {{ post.title }}</div>
+  <div class="item2"><i><p-date>{{ post.date | date_long_to_string }}<p-date></i></div>
+</div>
+	
 <micro-space>
 <a> </a>
 </micro-space>
