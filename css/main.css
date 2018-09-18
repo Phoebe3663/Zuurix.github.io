@@ -308,3 +308,9 @@ micro-space a {
     text-decoration: none;
     opacity: 0;
 }
+
+/* Table column width */
+
+td style {
+width:130px
+}
