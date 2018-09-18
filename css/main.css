@@ -6,9 +6,6 @@ body {
     width: 70%;
 }
 
-ul {
-    list-style-type: none;
-}
 
 nav ul {
     list-style-type: none;
@@ -45,9 +42,287 @@ nav li a:active {
 
 /* Link unordered list */
 
-link ul
-{
+link ul {
 list-style-image: url('https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/miscellaneous/list_arrow.png');
+}
+
+/* Text */
+
+a {
+    font-family: 'Nunito', sans-serif;
+    text-decoration: none;
+    color: #800000;
+}
+
+a ul li {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.3em;
+    color: #800000;
+    padding: 8px 8px 8px 8px;
+    margin: 12px 12px 12px 12px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/*Page header*/
+
+h1 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 2em;
+    vertical-align: middle;
+    padding: 32px 16px 32px 32px;
+    background-color: #b3ccff;
+    margin: 0px 0px 0px 0px;
+}
+
+/*Game name*/
+
+h2 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.6em;
+    vertical-align: middle;
+    padding: 16px 16px 16px 16px;
+    background-color: #d9d9d9;
+    margin: 0x 0px 0px 0px;
+}
+
+/*Game genre*/
+
+h3 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1em;
+    vertical-align: middle;
+    padding: 8px 8px 8px 8px;
+    margin: 0px 0px 0px 0px;  
+}
+
+/*Plain text*/
+
+plain {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1em;
+    padding: 8px 8px 8px 8px;
+    margin: 8px 8px 8px 8px;
+}
+
+/*Genre box*/
+
+span.box {
+    background-color: #b59b9b;
+    padding: 8px 8px 8px 8px;
+    margin: 0px 0px 0px 0px;
+}
+
+/*Status completed box*/
+
+span.status-completed {
+    background-color: #42f46b;
+    padding: 8px 8px 8px 8px;
+    margin: 0px 0px 0px 0px;
+}
+
+/*Status beta box*/
+
+span.status-beta {
+    background-color: #f4d742;
+    padding: 8px 8px 8px 8px;
+    margin: 0px 0px 0px 0px;
+}
+
+/*Status alpha box*/
+
+span.status-alpha {
+    background-color: #f45942;
+    padding: 8px 8px 8px 8px;
+    margin: 0px 0px 0px 0px;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.3em;
+    color: #333;
+    padding: 8px 8px 8px 8px;
+    margin: 12px 12px 12px 12px;
+}
+
+p-date {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1em;
+    color: #333;
+    padding: 8px 8px 8px 48px;
+    margin: 12px 12px 12px 12px;
+}
+
+footer {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1em;
+    margin-right: 0px;
+    cursor: pointer;
+}
+
+footer a {
+    background-color: #333;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+footer a:hover {
+    background-color: #800000;
+    display: block;
+    color: #d9d9d9;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+footer a:active {
+    background-color: #800000;
+    display: block;
+    color: #333;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/*Comments divider*/
+
+comments {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1em;
+    margin-right: 0px;
+}
+
+comments a {
+    background-color: #333;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+comments a:hover {
+    background-color: #333;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+comments a:active {
+    background-color: #333;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/*Unordered list*/
+
+ul.posts { 
+    font-family: 'Nunito', sans-serif;
+    list-style: none;
+    font-size: 1.3em;
+    color: #333;
+    padding: 8px 8px 8px 8px;
+    margin: 12px 12px 12px 12px;
+}
+
+ul.posts li {
+    font-family: 'Nunito', sans-serif;
+    list-style: none;
+    font-size: 1.3em;
+    color: #333;
+    padding: 8px 8px 8px 8px;
+    margin: 12px 12px 12px 12px;
+}
+
+/*Button*/
+
+.myButton {
+    background-color: #333;
+    color: white;
+    display:inline-block;
+    cursor:pointer;
+    text-decoration:none;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1em;
+    vertical-align: middle;
+    padding: 8px 8px 8px 8px;
+    margin: 12px 12px 12px 12px;
+}
+
+.myButton:hover {
+    cursor:pointer;
+    text-decoration:none;
+    background-color:#800000;
+    color: #d9d9d9;
+    padding: 8px 8px 8px 8px;
+    margin: 12px 12px 12px 12px;
+}
+
+.myButton:active {
+    cursor:pointer;
+    text-decoration:none;
+    color: #333;
+    padding: 8px 8px 8px 8px;
+    margin: 12px 12px 12px 12px;
+}
+
+#disqus_thread {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 24px;
+    margin-left: 24px;
+}
+
+/*Logo*/
+
+#logo {
+width:842px;
+height:248px
+}
+
+/*Space box*/
+
+space a {
+    background-color: #333;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    opacity: 0;
+}
+
+/*Space box*/
+
+mini-space a {
+    background-color: #333;
+    display: block;
+    color: white;
+    padding: 6px 16px;
+    text-decoration: none;
+    opacity: 0;
+}
+
+
+/*Space box*/
+
+micro-space a {
+    background-color: #333;
+    display: block;
+    color: white;
+    padding: 6px 8px;
+    text-decoration: none;
+    opacity: 0;
+}
+
+/* Table column width */
+
+td style {
+width: 130px;
+}
+
 }
 
 /* Link text */
