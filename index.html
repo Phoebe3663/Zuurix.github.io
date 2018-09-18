@@ -17,25 +17,23 @@ title: Zuurix.com - Home
 
 <style>
 table {
-    font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
 }
 
 td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
+    border: 1px solid #ffffff;
+    text-align: right;
 }
 
 tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #ffffff;
 }
 </style>
 
 <table>
 <tr>
-<td><p><i><small> – {{ post.date | date_to_long_string }}</i></small></p></td>
+<td><p><i><small>{{ post.date | date_to_long_string }}</i></small></p></td>
 <td><p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p></td>
 </tr>
 </table>	
