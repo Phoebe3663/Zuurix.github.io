@@ -14,8 +14,6 @@ title: Zuurix.com - Home
 </comments>
 	
 {% for post in site.posts %}
-<p><a href="{{ post.url }}" title="{{ post.title }}"> {{ post.title }}</a><i><p-date>{{ post.date | date_long_to_string }}<p-date></i></p>
-{% endfor %}
 	
 <style>
 .grid-container {
@@ -45,6 +43,8 @@ title: Zuurix.com - Home
   <div class="item1"><a href="{{ post.url }}" title="{{ post.title }}"> {{ post.title }}</div>
   <div class="item2"><i><p-date>{{ post.date | date_long_to_string }}<p-date></i></div>
 </div>
+	  
+{% endfor %}
 	
 <micro-space>
 <a> </a>
