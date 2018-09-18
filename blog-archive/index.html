@@ -5,3 +5,7 @@ title: Zuurix.com - Blog archive
 <div class="blurb">
 	
 <h1>Blog archive</h1>
+	
+{% for post in site.posts offset:20 %}
+<p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><i><small> – {{ post.date | date_to_long_string }}</i></small></p>
+{% endfor %}
