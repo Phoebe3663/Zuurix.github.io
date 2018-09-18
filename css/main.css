@@ -140,7 +140,7 @@ p {
 
 p2 {
     font-family: 'Nunito', sans-serif;
-    font-size: 1.1em;
+    font-size: 1.3em;
     color: #333;
     padding: 8px 8px 8px 48px;
     margin: 12px 12px 12px 12px;
@@ -293,6 +293,18 @@ mini-space a {
     display: block;
     color: white;
     padding: 6px 16px;
+    text-decoration: none;
+    opacity: 0;
+}
+
+
+/*Space box*/
+
+micro-space a {
+    background-color: #333;
+    display: block;
+    color: white;
+    padding: 6px 8px;
     text-decoration: none;
     opacity: 0;
 }
