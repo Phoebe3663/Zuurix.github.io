@@ -14,30 +14,7 @@ title: Zuurix.com - Home
 </comments>
 	
 {% for post in site.posts %}
-
-<style>
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-    border: 1px solid #ffffff;
-    text-align: left;
-}
-
-tr:nth-child(even) {
-    background-color: #ffffff;
-}
-</style>
-
-<table>
-<tr>
-<td><p><i><small>{{ post.date | date_to_long_string }}</i></small></p></td>
-<td><p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p></td>
-</tr>
-</table>	
-
+<p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><i><small> – {{ post.date | date_to_long_string }}</i></small></p>
 {% endfor %}
 	
 <micro-space>
