@@ -98,46 +98,7 @@ h3 {
     margin: 0px 0px 0px 0px;  
 }
 
-/*Plain text*/
-
-plain {
-    font-family: 'Nunito', sans-serif;
-    font-size: 1em;
-    padding: 8px 8px 8px 8px;
-    margin: 8px 8px 8px 8px;
-}
-
-/*Genre box*/
-
-span.box {
-    background-color: #b59b9b;
-    padding: 8px 8px 8px 8px;
-    margin: 0px 0px 0px 0px;
-}
-
-/*Status completed box*/
-
-span.status-completed {
-    background-color: #42f46b;
-    padding: 8px 8px 8px 8px;
-    margin: 0px 0px 0px 0px;
-}
-
-/*Status beta box*/
-
-span.status-beta {
-    background-color: #f4d742;
-    padding: 8px 8px 8px 8px;
-    margin: 0px 0px 0px 0px;
-}
-
-/*Status alpha box*/
-
-span.status-alpha {
-    background-color: #f45942;
-    padding: 8px 8px 8px 8px;
-    margin: 0px 0px 0px 0px;
-}
+/* Text */
 
 p {
     font-family: 'Nunito', sans-serif;
@@ -147,12 +108,14 @@ p {
     margin: 12px 12px 12px 12px;
 }
 
-p-date {
-    font-family: 'Nunito', sans-serif;
-    font-size: 1em;
-    color: #333;
-    padding: 8px 8px 8px 48px;
-    margin: 12px 12px 12px 12px;
+p href
+{
+    color: #800000;
+}
+
+a:hover {
+    text-decoration: underline;
+}
 }
 
 footer {
