@@ -50,13 +50,14 @@ a {
     font-family: 'Nunito', sans-serif;
     text-decoration: none;
     color: #800000;
+    padding: 8px 8px 8px 500px;
 }
 
 a ul li {
     font-family: 'Nunito', sans-serif;
     font-size: 1.3em;
     color: #800000;
-    padding: 8px 8px 8px 500px;
+    padding: 8px 8px 8px 8px;
     margin: 12px 12px 12px 12px;
 }
 
