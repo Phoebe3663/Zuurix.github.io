@@ -108,11 +108,6 @@ p {
     margin: 12px 12px 12px 12px;
 }
 
-p href
-{
-    color: #800000;
-}
-
 a:hover {
     text-decoration: underline;
 }
