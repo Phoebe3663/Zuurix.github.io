@@ -68,7 +68,9 @@ Anyway, I'll be tweeting about Light of the Locked World regularly on [Twitter](
 That's primary places to keep in touch with the game's development.
 
 You can also join my Discord server.
+
 [Invite link >>](https://discord.gg/TpwszJu)
+
 I hope all of this sound good, until next time!
 
 ![](https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/CAIOS%20II-h.png)
