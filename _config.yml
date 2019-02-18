@@ -4,4 +4,3 @@ permalink: /blog/:year/:month/:day/:title
 description: "Home for awesome indie games created by game developer Zuurix."
 gems:
   - jekyll-seo-tag
-google_analytics: UA-88661494-1
