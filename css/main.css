@@ -49,7 +49,7 @@ nav li a:active {
 a {
     font-family: 'Nunito', sans-serif;
     text-decoration: none;
-    color: #800000;
+    color: #c34d45;
 }
 
 a ul li {
@@ -135,6 +135,7 @@ footer a:hover {
     padding: 14px 16px;
     text-decoration: none;
 }
+
 footer a:active {
     background-color: #800000;
     display: block;
@@ -464,7 +465,7 @@ ul.posts li {
 
 #logo {
 width:806px;
-height:117px
+height:143px
 }
 
 /*Space box*/
