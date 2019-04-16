@@ -16,7 +16,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #c34d45;
 }
 
 nav li {
@@ -40,7 +40,7 @@ nav li a:hover {
 
 nav li a:active {
     background-color: #800000;
-    color: #333;
+    color: #c34d45;
     text-decoration: none;
 }
 
@@ -83,7 +83,7 @@ h2 {
     font-size: 1.6em;
     vertical-align: middle;
     padding: 16px 16px 16px 16px;
-    color: #333;
+    color: #c34d45;
     background-color: #d9d9d9;
     margin: 0x 0px 0px 0px;
 }
@@ -103,7 +103,7 @@ h3 {
 p {
     font-family: 'Nunito', sans-serif;
     font-size: 1.3em;
-    color: #333;
+    color: #c34d45;
     padding: 8px 8px 8px 8px;
     margin: 12px 12px 12px 12px;
 }
@@ -121,7 +121,7 @@ footer {
 }
 
 footer a {
-    background-color: #333;
+    background-color: #c34d45;
     display: block;
     color: white;
     padding: 14px 16px;
@@ -138,7 +138,7 @@ footer a:hover {
 footer a:active {
     background-color: #800000;
     display: block;
-    color: #333;
+    color: #c34d45;
     padding: 14px 16px;
     text-decoration: none;
 }
@@ -152,7 +152,7 @@ comments {
 }
 
 comments a {
-    background-color: #333;
+    background-color: #c34d45;
     display: block;
     color: white;
     padding: 14px 16px;
@@ -160,7 +160,7 @@ comments a {
 }
 
 comments a:hover {
-    background-color: #333;
+    background-color: #c34d45;
     display: block;
     color: white;
     padding: 14px 16px;
@@ -168,7 +168,7 @@ comments a:hover {
 }
 
 comments a:active {
-    background-color: #333;
+    background-color: #c34d45;
     display: block;
     color: white;
     padding: 14px 16px;
@@ -181,7 +181,7 @@ ul.posts {
     font-family: 'Nunito', sans-serif;
     list-style: none;
     font-size: 1.3em;
-    color: #333;
+    color: #c34d45;
     padding: 8px 8px 8px 8px;
     margin: 12px 12px 12px 12px;
 }
@@ -190,7 +190,7 @@ ul.posts li {
     font-family: 'Nunito', sans-serif;
     list-style: none;
     font-size: 1.3em;
-    color: #333;
+    color: #c34d45;
     padding: 8px 8px 8px 8px;
     margin: 12px 12px 12px 12px;
 }
@@ -198,7 +198,7 @@ ul.posts li {
 /*Button*/
 
 .myButton {
-    background-color: #333;
+    background-color: #c34d45;
     color: white;
     display:inline-block;
     cursor:pointer;
@@ -222,7 +222,7 @@ ul.posts li {
 .myButton:active {
     cursor:pointer;
     text-decoration:none;
-    color: #333;
+    color: #c34d45;
     padding: 8px 8px 8px 8px;
     margin: 12px 12px 12px 12px;
 }
@@ -244,7 +244,7 @@ height:248px
 /*Space box*/
 
 space a {
-    background-color: #333;
+    background-color: #c34d45;
     display: block;
     color: white;
     padding: 14px 16px;
@@ -255,7 +255,7 @@ space a {
 /*Space box*/
 
 mini-space a {
-    background-color: #333;
+    background-color: #c34d45;
     display: block;
     color: white;
     padding: 6px 16px;
@@ -267,7 +267,7 @@ mini-space a {
 /*Space box*/
 
 micro-space a {
-    background-color: #333;
+    background-color: #c34d45;
     display: block;
     color: white;
     padding: 6px 8px;
