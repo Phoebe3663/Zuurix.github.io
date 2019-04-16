@@ -83,7 +83,7 @@ h2 {
     font-size: 1.6em;
     vertical-align: middle;
     padding: 16px 16px 16px 16px;
-    color: #c34d45;
+    color: #000000;
     background-color: #d9d9d9;
     margin: 0x 0px 0px 0px;
 }
@@ -103,7 +103,7 @@ h3 {
 p {
     font-family: 'Nunito', sans-serif;
     font-size: 1.3em;
-    color: #c34d45;
+    color: #000000;
     padding: 8px 8px 8px 8px;
     margin: 12px 12px 12px 12px;
 }
@@ -262,7 +262,6 @@ mini-space a {
     text-decoration: none;
     opacity: 0;
 }
-
 
 /*Space box*/
 
