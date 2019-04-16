@@ -124,16 +124,16 @@ footer a {
 }
 
 footer a:hover {
-    background-color: #800000;
     display: block;
-    color: #d9d9d9;
+    background-color: #fff366;
+    color: #000000;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 footer a:active {
-    background-color: #800000;
     display: block;
+    background-color: #fff366;
     color: #c34d45;
     padding: 14px 16px;
     text-decoration: none;
