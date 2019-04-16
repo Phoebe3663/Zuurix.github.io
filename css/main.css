@@ -61,7 +61,7 @@ a ul li {
 }
 
 a:hover {
-    text-decoration: underline;
+    font-weight: bold;
 }
 
 /*Page header*/
