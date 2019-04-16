@@ -33,13 +33,13 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #000000;
-    color: #fff366;
+    background-color: #fff366;
+    color: #000000;
     text-decoration: none;
 }
 
 nav li a:active {
-    background-color: #000000;
+    background-color: #fff366;
     color: #c34d45;
     text-decoration: none;
 }
