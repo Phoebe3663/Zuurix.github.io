@@ -33,13 +33,13 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #800000;
+    background-color: #c34d450;
     color: #d9d9d9;
     text-decoration: none;
 }
 
 nav li a:active {
-    background-color: #800000;
+    background-color: #c34d450;
     color: #c34d45;
     text-decoration: none;
 }
@@ -49,13 +49,13 @@ nav li a:active {
 a {
     font-family: 'Nunito', sans-serif;
     text-decoration: none;
-    color: #800000;
+    color: #c34d450;
 }
 
 a ul li {
     font-family: 'Nunito', sans-serif;
     font-size: 1.3em;
-    color: #800000;
+    color: #c34d450;
     padding: 8px 8px 8px 8px;
     margin: 12px 12px 12px 12px;
 }
@@ -129,14 +129,14 @@ footer a {
 }
 
 footer a:hover {
-    background-color: #800000;
+    background-color: #c34d450;
     display: block;
     color: #d9d9d9;
     padding: 14px 16px;
     text-decoration: none;
 }
 footer a:active {
-    background-color: #800000;
+    background-color: #c34d450;
     display: block;
     color: #c34d45;
     padding: 14px 16px;
@@ -213,7 +213,7 @@ ul.posts li {
 .myButton:hover {
     cursor:pointer;
     text-decoration:none;
-    background-color:#800000;
+    background-color:#c34d450;
     color: #d9d9d9;
     padding: 8px 8px 8px 8px;
     margin: 12px 12px 12px 12px;
