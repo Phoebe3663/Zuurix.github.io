@@ -64,7 +64,7 @@ a:hover {
     text-decoration: none;
 }
 
-a:hover ul li {
+ul li a:hover {
     text-weight: bold;
 }
 
