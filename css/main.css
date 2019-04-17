@@ -64,6 +64,10 @@ a:hover {
     text-decoration: none;
 }
 
+a ul li:hover {
+    text-weight: bold;
+}
+
 /*Page header*/
 
 h1 {
