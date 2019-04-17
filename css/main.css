@@ -61,7 +61,7 @@ a ul li {
 }
 
 a:hover {
-    text-decoration: underline;
+    color: #c34d45;
 }
 
 /*Page header*/
