@@ -276,5 +276,7 @@ micro-space a {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  width: 75%;
 }
