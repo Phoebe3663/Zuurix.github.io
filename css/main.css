@@ -269,3 +269,12 @@ micro-space a {
     text-decoration: none;
     opacity: 0;
 }
+
+/*Center image*/
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
