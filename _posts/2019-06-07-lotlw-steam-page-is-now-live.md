@@ -19,11 +19,13 @@ Live updates:
 Frequent updates - GIF's and screenshots several times a week:
 
 [Twitter](https://twitter.com/DeveloperZuurix)
+
 [Discord](https://zuurix.com/community/)
 
 Weekly updates - development blog entries roughly once a week:
 
 [Facebook page](https://www.facebook.com/LOTLW/)
+
 [Subreddit](https://www.reddit.com/r/GamesByZuurix/)
 
 Blog entries will be shared on website and Steam as well - the first entry will be posted very soon.
