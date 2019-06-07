@@ -14,17 +14,17 @@ If you want to follow the game's development, here's where the news about the ga
 
 Live updates:
 
-* [LOTLW's Trello board](https://trello.com/b/OvTcfAlG/light-of-the-locked-world-development)
+[LOTLW's Trello board](https://trello.com/b/OvTcfAlG/light-of-the-locked-world-development)
 
 Frequent updates - GIF's and screenshots several times a week:
 
-* [Twitter](https://twitter.com/DeveloperZuurix)
-* [Discord](https://zuurix.com/community/)
+[Twitter](https://twitter.com/DeveloperZuurix)
+[Discord](https://zuurix.com/community/)
 
 Weekly updates - development blog entries roughly once a week:
 
-* [Facebook page](https://www.facebook.com/LOTLW/)
-* [Subreddit](https://www.reddit.com/r/GamesByZuurix/)
+[Facebook page](https://www.facebook.com/LOTLW/)
+[Subreddit](https://www.reddit.com/r/GamesByZuurix/)
 
 Blog entries will be shared on website and Steam as well - the first entry will be posted very soon.
 
