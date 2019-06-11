@@ -280,3 +280,11 @@ micro-space a {
   margin-bottom: 32px;
   width: 75%;
 }
+
+.center-video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
