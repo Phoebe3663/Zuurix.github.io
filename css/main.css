@@ -295,3 +295,11 @@ micro-space a {
   margin-top: 32px;
   margin-bottom: 32px;
 }
+
+.center-universal {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
