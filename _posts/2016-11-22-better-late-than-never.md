@@ -24,10 +24,10 @@ I should manage to do all this new week and update game on weekend.
 
 Wish me luck!
 
-![](http://i.imgur.com/bBcQ7Zh.png)
+![](https://i.imgur.com/bBcQ7Zh.png)
 
-![](http://i.imgur.com/oCYN9bq.png)
+![](https://i.imgur.com/oCYN9bq.png)
 
-![](http://i.imgur.com/TthYkTX.png)
+![](https://i.imgur.com/TthYkTX.png)
 
 Until next time!
