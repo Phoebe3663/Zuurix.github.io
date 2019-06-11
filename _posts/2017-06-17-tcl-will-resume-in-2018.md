@@ -44,4 +44,4 @@ I think that will be epic!
 
 Thanks for playing and see you in 2018!
 
-![Amydar Animate](http://i.imgur.com/TbL8PfW.png)
+![Amydar Animate](https://i.imgur.com/TbL8PfW.png)
