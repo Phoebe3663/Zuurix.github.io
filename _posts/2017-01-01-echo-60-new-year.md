@@ -123,21 +123,21 @@ Even better backgrounds, new animations, and particle effects!
 2017 will be epic.
 Until next time!
 
-![](http://i.imgur.com/j1vLlul.png)
+![](https://i.imgur.com/j1vLlul.png)
 *Before graphical update*
 
-![](http://i.imgur.com/rEXxDyP.png)
+![](https://i.imgur.com/rEXxDyP.png)
 *After graphical update*
 
-![](http://i.imgur.com/pIAKZyG.png)
+![](https://i.imgur.com/pIAKZyG.png)
 *Modular difficulty system*
 
-![](http://i.imgur.com/QPjFAar.png)
+![](https://i.imgur.com/QPjFAar.png)
 *Mission IV*
 
-![](http://i.imgur.com/jLkqFGE.png)
+![](https://i.imgur.com/jLkqFGE.png)
 *Mission V*
 
-![](http://i.imgur.com/774yy7x.jpg)
+![](https://i.imgur.com/774yy7x.jpg)
 *Epic player built spaceships*
 
