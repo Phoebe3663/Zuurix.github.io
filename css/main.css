@@ -68,9 +68,12 @@ a:hover {
 
 c {
     text-align: center;
-    font-family: 'Nunito', sans-serif;
     text-decoration: none;
     color: #61241f;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.3em;
+    padding: 8px 8px 8px 8px;
+    margin: 12px 12px 12px 12px;
 }
 
 c ul li {
