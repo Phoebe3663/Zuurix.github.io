@@ -47,7 +47,6 @@ nav li a:active {
 /* Text */
 
 a {
-    text-align: center;
     font-family: 'Nunito', sans-serif;
     text-decoration: none;
     color: #61241f;
@@ -78,6 +77,7 @@ c {
 }
 
 c ul li {
+    text-align: center;
     font-family: 'Nunito', sans-serif;
     font-size: 1.3em;
     color: #800000;
@@ -86,6 +86,7 @@ c ul li {
 }
 
 c:hover {
+    text-align: center;
     color: #c34d45;
 }
 
