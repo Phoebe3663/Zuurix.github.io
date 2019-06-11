@@ -43,4 +43,4 @@ So, that's all I have to say, for now.
 I will post again soon.
 In next post, I will write about the first Cursed Legion update.
 
-![](http://i.imgur.com/l2KzMzO.png) ![](http://i.imgur.com/BgMGlXF.png)
+![](https://i.imgur.com/l2KzMzO.png) ![](https://i.imgur.com/BgMGlXF.png)
