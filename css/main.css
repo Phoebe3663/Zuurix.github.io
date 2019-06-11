@@ -47,6 +47,7 @@ nav li a:active {
 /* Text */
 
 a {
+    text-align: center;
     font-family: 'Nunito', sans-serif;
     text-decoration: none;
     color: #61241f;
