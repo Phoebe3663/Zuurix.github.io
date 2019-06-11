@@ -64,7 +64,7 @@ More things will become clear when an alpha demo will be available, which should
 As for Sector Six, I won't abandon it, but as I will be focusing on Light of the Locked World, the updates will become less frequent and smaller.
 Still, I'll keep fixing glitches and adding new content. The next Sector Six update is planned for early December.
 
-Anyway, I'll be tweeting about Light of the Locked World regularly on [Twitter](https://twitter.com/DeveloperZuurix), and posting entries to its development blog on [my website](http://zuurix.com/).
+Anyway, I'll be tweeting about Light of the Locked World regularly on [Twitter](https://twitter.com/DeveloperZuurix), and posting entries to its development blog on [my website](https://zuurix.com/).
 That's primary places to keep in touch with the game's development.
 
 You can also join my Discord server.
