@@ -52,8 +52,8 @@ Minor changes and fixes:
 
 Have fun!
 
-![](http://i.imgur.com/EH8vWFS.png)
+![](https://i.imgur.com/EH8vWFS.png)
 
-![](http://i.imgur.com/YgbQD9R.png)
+![](https://i.imgur.com/YgbQD9R.png)
 
-![](http://i.imgur.com/zy7P62B.png)
+![](https://i.imgur.com/zy7P62B.png)
