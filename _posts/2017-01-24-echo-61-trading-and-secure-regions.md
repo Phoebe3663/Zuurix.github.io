@@ -40,4 +40,4 @@ Should be pleasantly simple!
 
 That's all news I got for now, so until next time!
 
-![](http://i.imgur.com/Da9ZajG.png)
+![](https://i.imgur.com/Da9ZajG.png)
