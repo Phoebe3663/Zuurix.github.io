@@ -20,6 +20,6 @@ It's the best place to get news and talk about my games.
 My website from now on will have a neat little feature: Weekly messages.
 It's simple: Every week I will post a new message. There will be reveals, competitions, and rewards!
 
-[Check out this week's message >>](http://zuurix.com/community/)
+[Check out this week's message >>](https://zuurix.com/community/)
 
 I'm also planning to giveaway few copies of Sector Six in my Discord server and other places, so don't miss upcoming announcements =]
