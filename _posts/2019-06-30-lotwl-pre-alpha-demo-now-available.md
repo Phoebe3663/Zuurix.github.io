@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Light of the Locked World: Pre-alpha demo is now available!"
-date: 2019-06-23
+date: 2019-06-30
 ---
 
 [Download from GameJolt >>](https://gamejolt.com/games/light-of-the-locked-world/418064)
