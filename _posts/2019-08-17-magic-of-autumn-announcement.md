@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Magic of Autumn - Conjured card game!"
+title: "Magic of Autumn - A conjured card game!"
 date: 2019-08-17
 ---
 
-A new game by Zuurix!
+A new game by Zuurix is now in active development!
 
 Magic of Autumn is my CCG side project, it's a simple singleplayer game.
 
