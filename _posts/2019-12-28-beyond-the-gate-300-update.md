@@ -13,7 +13,7 @@ Alternatively, you can try moving renaming the previous version savefile to save
 
 Added 6 new buttons to the Gate screen.
 
-**They have these functions:**
+They have these functions:
 
 * Locate your level world.
 * Locate your level - 1 world.
