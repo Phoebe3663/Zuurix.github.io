@@ -26,7 +26,7 @@ Added 6 new buttons to the Gate screen.
 
 * Default world scaling: Increased from max level 10 to max level 50.
 * Caches are now more common.
-* * Now possible: Click to use the Gate while trading.
+* Now possible: Click to use the Gate while trading.
 * Now possible: Click to trade with Tolabor while trading with Arie or vice versa.
 * Now possible: Walk while trading. This cancels trading.
 * Now possible: Click inventory and other UI buttons while trading. This cancels trading.
