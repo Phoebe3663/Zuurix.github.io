@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Beyond the Gate: Update! Journey spells, new progression, and UI improvements"
+date: 2019-12-28
+---
+
 **Warning:**
 
 Old save files will not be loaded in this version. They are not lost - if you wish you can continue playing in the old version.
