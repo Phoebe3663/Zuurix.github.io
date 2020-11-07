@@ -1,83 +1,26 @@
 ---
 layout: default
-title: Zuurix.com - Games
+title: Zuurix.com - Blog
 ---
+
 <div class="blurb">
-	<h1>Games</h1>
 	
-	<p>Play games by Zuurix!</p>
+<h1>Blog</h1>
 	
-	<comments>
-	<a>Light of the Locked World</a>
-	</comments>
+<p>Read all about it!</p>
 	
-	<img src="https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/LOTLW/LOTLW%20Small%20Logo.png" style="height: 256px; width: 256px; float: left; margin: 20px 20px 20px 0;">
+<comments>
+<a>News</a>
+</comments>
 	
-	<p>Light of the Locked World is a persistent open world RPG.</p>	
-	
-	<ul style="margin-bottom: 155px; list-style-type: none;">
-	<li><a href="https://store.steampowered.com/app/1097560/Light_of_the_Locked_World/" target="_blank">▶ View on Steam</a></li>
-	<li><a href="https://zuurix.com/light-of-the-locked-world/">▶ About the game</a></li>
-	<li><a href="https://zuurix.com/light-of-the-locked-world-presskit/">▶ View press kit</a></li>
-	</ul>
-	
-	<comments>
-	<a>Sector Six</a>
-	</comments>	
-	
-    	<img src="https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/944x944.png" style="height: 256px; width: 256px; float: left; margin: 20px 20px 20px 0;">
-    	
-	<p>Sector Six is a side-scrolling sci-fi shooter with silhouette aesthetic, procedural loot, and extensive customization.</p>	
-	
-	<ul style="margin-bottom: 155px; list-style-type: none;">
-	<li><a href="https://store.steampowered.com/app/465020/Sector_Six/" target="_blank">▶ Get from Steam</a></li>
-	<li><a href="https://zuurix.com/sector-six/">▶ About the game</a></li>
-	<li><a href="https://zuurix.com/sector-six-presskit/">▶ View press kit</a></li>
-	</ul>
-	
-	<comments>
-	<a>Magic of Autumn</a>
-	</comments>
-	
-	<img src="https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/magic_of_autumn/images/Square%20logo.png" style="height: 256px; width: 256px; float: left; margin: 20px 20px 20px 0;">
-	
-	<p>Magic of Autumn is a card game with an overworld - and everything in the overworld can be turned into a card.</p>	
-	
-	<ul style="margin-bottom: 155px; list-style-type: none;">
-	<li><a href="https://store.steampowered.com/app/1184450/Magic_of_Autumn/" target="_blank">▶ Get from Steam</a></li>
-	<li><a href="https://zuurix.com/magic-of-autumn/">▶ About the game</a></li>
-	<li><a href="https://zuurix.com/magic-of-autumn-presskit/">▶ View press kit</a></li>
-	</ul>
-	
-	<comments>
-	<a>Legion of Eternity</a>
-	</comments>
-	
-	<img src="https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/loe-images/LOE%20Logo%20Square.png" style="height: 256px; width: 256px; float: left; margin: 20px 20px 20px 0;">
-	
-	<p>Legion of Eternity is a singleplayer-focused story-driven card game that merges science fiction and cosmic horror.</p>	
-	
-	<ul style="margin-bottom: 178px; list-style-type: none;">
-	<li><a href="https://zuurix.com/legion-of-eternity/">▶ About the game</a></li>
-	<li><a href="https://zuurix.com/legion-of-eternity-presskit/">▶ View press kit</a></li>
-	</ul>
-	
-	<comments>
-	<a>Other games</a>
-	</comments>
-	
-	<img src="https://raw.githubusercontent.com/Zuurix/Zuurix.github.io/master/images/miscellaneous/Old%20game%20archive%20image.png" style="height: 256px; width: 256px; float: left; margin: 20px 20px 20px 0;">
-	
-	<p>Go to archive containing my old games, side projects and games made for competitions.</p>	
-	
-	<ul style="margin-bottom: 201px; list-style-type: none;">
-	<li><a href="https://zuurix.com/other-games/">▶ Go to archive</a></li>
-	</ul>
-	
-	<comments>
-	<a>Comments</a>
-	</comments>
-	
-	{% include disqus.html %}
-	
-</div><!-- /.blurb -->
+{% for post in site.posts offset:0 limit:20 %}
+<p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><i><small> – {{ post.date | date_to_long_string }}</i></small></p>
+{% endfor %}
+
+<comments>
+<a>Older posts</a>
+</comments>
+		
+<p><a href="https://zuurix.com/blog-archive">▶ View older posts</a></p>
+
+</div>
