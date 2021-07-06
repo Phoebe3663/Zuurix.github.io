@@ -13,7 +13,7 @@ I've created it in case I'll want to expand in the future and because saying tha
 Two of my biggest games are made with the awesome Bert Cole of Bit By Bit Sound.
 
 Please follow Small Moons creator's page to be updated about new game releases:
-![Link >>](https://store.steampowered.com/developer/smallmoons/)
+[Link >>](https://store.steampowered.com/developer/smallmoons/)
 
 Also, I have some bad news for those waiting for Light of the Locked World: The development of this game has been paused by at least 6 months.
 
