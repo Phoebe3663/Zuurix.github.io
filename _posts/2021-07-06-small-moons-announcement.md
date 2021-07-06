@@ -8,7 +8,7 @@ Hi all!
 
 A small update for those wondering what's going on: Small Moons is a studio created by me, Zuurix a.k.a. Aivaras Klimas.
 
-I've done this in case I'll want to expand in the future and because saying that these games are made by me isn't entirely correct.
+I've created it in case I'll want to expand in the future and because saying that these games are made by me isn't entirely correct.
 
 Two of my biggest games are made with the awesome Bert Cole of Bit By Bit Sound.
 
