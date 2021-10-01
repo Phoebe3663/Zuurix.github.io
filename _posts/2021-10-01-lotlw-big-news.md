@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Light of the Locked World: Publisher and other big news!"
-date: 2016-11-03
+date: 2021-10-01
 ---
 
 Hey all,
