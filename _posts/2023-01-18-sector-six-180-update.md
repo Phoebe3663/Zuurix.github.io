@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Update! QoL, auto-fire improvements, relic fixes"
+title: "Sector Six: Update! QoL, auto-fire improvements, relic fixes"
 date: 2023-01-18
 ---
 
