@@ -28,4 +28,4 @@ Steam Next Fest is about to start and I have an update for the demo!
 - Dozens of tiny fixes and improvements.
 ...
 
-[Play now on Steam >>]([Play on on Steam>>](https://store.steampowered.com/app/2152950/Beyond_the_Gate/)
+[Play on on Steam>>](https://store.steampowered.com/app/2152950/Beyond_the_Gate/)
