@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Magic of Spring: Development update #3 - Progression 2.0"
+title: "Magic of Spring: Development update #3: Progression 2.0"
 date: 2022-10-12
 ---
 
