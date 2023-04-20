@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beyond the Gate: Project cancelled"
+title: "Beyond the Gate: Project canceled"
 date: 2023-04-19
 ---
 
